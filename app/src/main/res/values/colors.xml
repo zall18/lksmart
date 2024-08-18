@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#83b3e3</color>
+
+    <color name="darkblue">#567CA3</color>
+    <color name="orange">#FBBC78</color>
+    <color name="grenn">#4DCF8E</color>
+    <color name="blurprofile">#7DE1EA</color>
+    <color name="red">#ff0000</color>
+</resources>
